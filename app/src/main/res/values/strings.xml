@@ -7,7 +7,7 @@
     <string name="main_poid_hint">Weight</string>
     <string name="main_calcul_bt">Calcul</string>
     <string name="main_cancel_bt">Annuler</string>
-    <string name="result_label">Bonjour</string>
+    <string name="result_label">Résultat de l\'imc:</string>
     <string name="imc_text_maigreur">Maigreur</string>
     <string name="imc_text_normal">Corpulence normal</string>
     <string name="imc_text_surpoids">Surpoids</string>
