@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MasseCorporelle2A</string>
+    <string name="main_title">IMC calculator</string>
+    <string name="main_taille_label">Enter height</string>
+    <string name="main_poids_label">Enter weight</string>
+    <string name="main_taille_hint">Height</string>
+    <string name="main_poid_hint">Weight</string>
+    <string name="main_calcul_bt">Calcul</string>
+    <string name="main_cancel_bt">Annuler</string>
+    <string name="result_label">Bonjour</string>
+    <string name="imc_text_maigreur">Maigreur</string>
+    <string name="imc_text_normal">Corpulence normal</string>
+    <string name="imc_text_surpoids">Surpoids</string>
+    <string name="imc_text_ob">Obésité élevée (classe 2)</string>
+    <string name="imc_text_ob2">Obésité sévère</string>
+    <string name="imc_text_error">Erreur de calcul de l\'IMC</string>
+</resources>
